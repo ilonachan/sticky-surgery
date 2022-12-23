@@ -1,0 +1,3 @@
+# Sticky Surgery
+
+Since Sticker Surge seems to be well and truly dead now, but the features were kinda cool, I decided I'd try to Rewrite It In Rust(tm). Problem is, I'm a noob at Rust, and also a dumb bitch, AND ALSO I should be working on more important things. So long story short, this probably won't go anywhere productive. Still, if anything I've tried here (with Serenity and SeaORM) seems interesting, feel free to take it.
